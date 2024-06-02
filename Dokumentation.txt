@@ -1,0 +1,4 @@
+02.06.2024
+Basic Multiplayer Melee Combat System Projekt erstellt aus der Unreal Engine Bibliothek.
+Maus während des Spiel sichtbar gemacht: https://youtu.be/SA4KZFJVL9E?si=LpOgIX3IC6w1-8OJ (Tutorial)
+Gravitation des Spielers ausgeschaltet: GRavity Sclae auf 0 gesetzt.
