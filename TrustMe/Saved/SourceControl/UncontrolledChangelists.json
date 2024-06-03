@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/MyBachelor/TrustMe/Content/BMMCSystem/Maps/Multiplayer/MultiplayerArena.umap",
+				"D:/GitHub/MyBachelor/TrustMe/Content/BMMCSystem/Blueprints/GameModes/Multiplayer/BP_GM_MultiPlayer.uasset",
 				"C:/Users/49157/Documents/GitHub/MyBachelor/TrustMe/Content/BMMCSystem/Blueprints/Character/BP_MainCharacter.uasset",
 				"C:/Users/49157/Documents/GitHub/MyBachelor/TrustMe/Content/BMMCSystem/Maps/Multiplayer/MultiplayerArena.umap"
 			]
